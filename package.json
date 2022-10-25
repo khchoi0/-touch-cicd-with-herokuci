@@ -1,0 +1,24 @@
+{
+  "name": "touch-cicd-with-herokuci",
+  "version": "1.0.0",
+  "description": "Hands-on CI/CD workflow with Heroku CI. This application calculates the factorial of a number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khchoi0/touch-cicd-with-herokuci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khchoi0/touch-cicd-with-herokuci/issues"
+  },
+  "homepage": "https://github.com/khchoi0/touch-cicd-with-herokuci#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
